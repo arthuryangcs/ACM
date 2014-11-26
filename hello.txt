@@ -1,1 +1,14 @@
-hello,nice to meet you!
+I am very happy to know how to used the Git simply.
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a,b;
+    while(~scanf("%d%d",&a,&b)){
+        printf("%d\n",a+b);
+    }
+    return 0;
+}
