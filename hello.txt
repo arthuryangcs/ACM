@@ -1,5 +1,3 @@
-I am very happy to know how to used the Git simply.
-
 #include <iostream>
 
 using namespace std;
